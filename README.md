@@ -111,6 +111,14 @@ Review
       ↓
 Approval
       ↓
+Merge to Develop
+      ↓
+Pull Request
+      ↓
+Review
+      ↓
+Approval
+      ↓
 Merge to Main
 ```
 
