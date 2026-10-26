@@ -29,7 +29,6 @@ The OT System Model repository provides a collaborative, version-controlled loca
 - Concepts and operational context
 - Requirements
 - Architecture artefacts
-- SysML models
 - Verification evidence
 - Supporting documentation
 
@@ -73,13 +72,14 @@ Repository structure, governance, and modelling practices are expected to mature
 
 ```text
 OT-System-Model
-├── concepts
-├── requirements
-├── architecture
-├── sysml
-├── views
-├── verification
-└── documentation
+├── 00_Governance
+├── 01_Standards
+├── 02_Reference_Models
+├── 03_Product_Lines
+├── 04_Integration
+├── 05_Scenarios
+└── 06_Requirements
+└── 07_User_Views
 ```
 
 The structure is a draft and remains subject to stakeholder review and approval.
