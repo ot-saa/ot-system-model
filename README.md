@@ -20,6 +20,11 @@ Operational Technology System Model Repository. This is a draft repository to de
 >
 > Stakeholders are encouraged to review, comment on, and contribute to repository content through the Git contribution process.
 
+
+[DO!NOT!MERGE!]
+## branch: feature/mbse_api_interface
+The directory structure introduced in this branch is an example structure to establish the features of the branch. this branch is demonstrating the modelling of SpiraPlan MBSE interface. The OT System Model repository has not yet been formally merged to the develop or main branch. The structure shall be revised after the main repository structure has been established
+
 ---
 
 ## Purpose
